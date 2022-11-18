@@ -1,0 +1,4 @@
+com\ivansoft\alexa\skills\sismos\EndPoint.class
+com\ivansoft\alexa\skills\sismos\model\AmazonDynamoEarthquakeModel.class
+com\ivansoft\alexa\skills\sismos\service\AmazonDynamoService.class
+com\ivansoft\alexa\skills\sismos\EndPointHandler.class
