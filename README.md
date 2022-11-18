@@ -1,2 +1,3 @@
-# Alexa_skill_sismos_en_mexico_endpoint
-This is the endpoint used by the Alexa skill named "sismos en México"
+# AlexaSkillSismosEndpoint
+
+This is the enpoint for alexa skill called &#34;sismos en Mexico&#34; the data come from SSN (Servicio Sismologico Nacional)
